@@ -1,0 +1,11 @@
+[Protocol]
+exec=advantage-qt '%u'
+protocol=advantage
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

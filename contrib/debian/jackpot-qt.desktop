@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Advantage 
+Comment=Advantage P2P Cryptocurrency
+Comment[fr]=Advantage, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Advantage, eşten eşe kriptografik sanal para birimi
+Exec=advantage-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/advantage;
+Categories=Office;Finance;
+StartupWMClass=advantage-qt

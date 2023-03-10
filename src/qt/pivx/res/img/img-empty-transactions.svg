@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="ic_empty_transactions" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100"
+	 style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#141414;fill-opacity:0;}
+	.st1{fill:#666666;}
+</style>
+<path class="st0" d="M67.95,49.04c-0.05,0.67-0.19,1.36-0.39,2.1c-0.6,2.27-2.94,3.74-5.19,3.68c-0.69,1.27-1.38,2.76-1.87,3.43
+	c-1.46,1.99-3.23,3.83-5.31,5.19c-4.1,2.67-7.65,2.17-11.29-0.96c-1.81-1.56-2.87-3.18-3.33-4.79c-1.58-0.61-3-1.5-4.09-2.79
+	c-0.87-1.04-1.32-2.11-1.44-3.15c-0.38-0.34-0.75-0.7-1.12-1.11c-1.89-2.15-1.86-4.93,0-7.07c3.87-4.46,10.6-4.74,16.06-5.38
+	c3.25-0.38,6.43-0.23,9.5,1.02c1.53,0.62,3,1.43,4.15,2.65c0.45,0.47,0.77,1.01,1.05,1.57c0.91,0.48,1.72,1.21,2.26,1.98
+	c0.35,0.49,0.59,0.98,0.75,1.47C66.22,38.42,58.87,32,50,32c-9.94,0-18,8.06-18,18s8.06,18,18,18s18-8.06,18-18
+	C68,49.67,67.97,49.36,67.95,49.04z"/>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview22" inkscape:current-layer="Group_9013" inkscape:cx="29.224692" inkscape:cy="57.544555" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="2066" inkscape:window-maximized="1" inkscape:window-width="3840" inkscape:window-x="3829" inkscape:window-y="-11" inkscape:zoom="8.4711955" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="Group_9015">
+	<path class="st0" d="M50,26c-13.3,0-24,10.7-24,24s10.7,24,24,24s24-10.7,24-24S63.3,26,50,26z M50,68c-9.9,0-18-8.1-18-18
+		s8.1-18,18-18c8.82,0,16.2,6.44,17.7,14.84c0.24,0.72,0.31,1.44,0.25,2.2C67.97,49.36,68,49.68,68,50C68,59.9,59.9,68,50,68z"/>
+	<g id="Group_9014">
+		<g id="Group_9013">
+			<path class="st0" d="M50,31c-10.5,0-19,8.5-19,19s8.5,19,19,19s19-8.5,19-19S60.5,31,50,31z M50,67c-9.4,0-17-7.6-17-17
+				c0-0.26,0.03-0.51,0.04-0.76c-0.89-1.88-0.59-3.98,0.89-5.69c0.2-0.23,0.42-0.45,0.64-0.66C37.26,37.05,43.14,33,50,33
+				c7.42,0,13.71,4.75,16.03,11.37c0.35,0.32,0.67,0.67,0.93,1.03c1.32,1.85,1.18,3.6,0.61,5.74c-0.16,0.6-0.44,1.13-0.81,1.61
+				C65.45,60.83,58.46,67,50,67z"/>
+			<path id="Rectangle_4664" class="st1" d="M83,56h2v4h-2V56z"/>
+			<path id="Rectangle_4665" class="st1" d="M83,44h2v8h-2V44z"/>
+			<path id="Rectangle_4666" class="st1" d="M15,48h2v8h-2V48z"/>
+			<path id="Rectangle_4667" class="st1" d="M15,40h2v4h-2V40z"/>
+			<path id="Path_18973" class="st1" d="M95.2,71H85v-7h-2v9h7.8L76,90.5L61.2,73H68v-2h-4.5c11.6-7.5,15-22.9,7.5-34.5
+				c-6.4-9.9-18.9-14-29.9-9.8L24,6.5L4.8,29H15v7h2v-9H9.2L24,9.5L38.8,27H32v2h4.5c-11.6,7.5-15,22.9-7.5,34.5
+				c6.4,9.9,18.9,14,29.9,9.8L76,93.5L95.2,71z M27,50c0-12.7,10.3-23,23-23s23,10.3,23,23S62.7,73,50,73S27,62.7,27,50z"/>
+		</g>
+	</g>
+</g>
+</svg>

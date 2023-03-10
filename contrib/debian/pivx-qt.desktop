@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Advantage
+Comment= USDX P2P Cryptocurrency
+Comment[fr]= USDX, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= USDX, eşten eşe kriptografik sanal para birimi
+Exec=advantage-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=Advantage-qt
